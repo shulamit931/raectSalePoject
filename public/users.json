@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "username": "meirF",
+        "password": "1jn31jon",
+        "email": "kfjijr@kmek.il",
+        "phone": "0505694308"
+    },
+    {
+        "id": 2,
+        "username": "s",
+        "password": "1",
+        "email": "s@co.il",
+        "phone": "0504110931",
+        "isManager":true
+    },
+    {
+        "id": 3,
+        "username": "2",
+        "password": "1",
+        "email": "s@co.il",
+        "phone": "0504110931"
+       
+    }
+]
